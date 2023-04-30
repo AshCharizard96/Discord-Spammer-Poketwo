@@ -3,8 +3,8 @@ import requests
 
 channelID = PUT THE CHANNEL ID
 headers = {
-    "authorization":
-    "YOUR TOKEN HERE"
+    ""MTA2MjY2NDA4NjExNjEyNjgwMQ.Gl4zXw.GRnYC5LnIgtQ23Inagp8MbxiRknvH3Ad97qfUQ"":
+    "1102092681422852186"
 }
 keep_alive()
 file = open("text.txt", "r")
